@@ -21,7 +21,7 @@ const Login = () => {
         setIsAuthenticating(true);
 
         try {
-            if (!isRegister) {
+            if (isRegister) {
                 await signup(email, password)
             } else {
                 await login(email, password)
