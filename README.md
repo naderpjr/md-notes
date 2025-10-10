@@ -1,36 +1,52 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# 📝 Markdown Notes App | Next.js 15 + Firebase
 
-## Getting Started
+A modern, full-stack **Markdown Notes App** built with **Next.js 15**, **Firebase**, and **FantaCSS**.  
+This project was developed as a personal learning project to strengthen my full-stack skills using Next.js, focusing on authentication, database integration, and clean UI design.
 
-First, run the development server:
+---
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## ⚙️ Features
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+- 🔐 **User Authentication** with Firebase Auth  
+- 💾 **Real-time Data Sync** using Firestore  
+- 🧠 **Markdown Editing & Live Preview**  
+- 🎨 **Responsive UI** styled with FantaCSS  
+- 🌍 **Deployed on Netlify** with environment variables  
+- ⚡ **State Management** with React Context API  
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+---
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## 🧩 Tech Stack
 
-## Learn More
+- **Next.js 15**
+- **React 19**
+- **Firebase (Auth + Firestore)**
+- **FantaCSS**
+- **Vercel**
 
-To learn more about Next.js, take a look at the following resources:
+---
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## 🚀 Future Improvements
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+- 🔍 Search and filter notes in sidebar  
+- 🗂️ Add categories/tags for notes  
+- 💾 Cache notes globally in context state  
+- 🏠 Create a more detailed landing page  
+- 🔁 Implement password reset feature  
+- ⚠️ Handle login and error states with conditional UI messages  
 
-## Deploy on Vercel
+---
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+## 💡 Project Purpose
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+The main goal of this project was to **build a complete full-stack app** with Next.js — from authentication and CRUD operations to state management and UI architecture.  
+It gave me hands-on experience in understanding how real-world React apps are structured and deployed.
+
+---
+
+## 🧑‍💻 Developer
+
+**Developed by Nader**  
+Self-taught Software Developer | [Monalux Studio](https://www.instagram.com/monaluxstudio)
+
+---
