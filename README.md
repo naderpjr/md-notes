@@ -5,7 +5,7 @@ This project was developed as a personal learning project to strengthen my full-
 
 ---
 
-## ⚙️ Features
+## ⚙️ Features of Project
 
 - 🔐 **User Authentication** with Firebase Auth  
 - 💾 **Real-time Data Sync** using Firestore  
