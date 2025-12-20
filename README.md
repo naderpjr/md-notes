@@ -11,8 +11,7 @@ This project was developed as a personal learning project to strengthen my full-
 - 💾 **Real-time Data Sync** using Firestore  
 - 🧠 **Markdown Editing & Live Preview**  
 - 🎨 **Responsive UI** styled with FantaCSS  
-- 🌍 **Deployed on Netlify** with environment variables  
-- ⚡ **State Management** with React Context API  
+- 🌍 **Deployed on Netlify** with environment variables.  
 
 ---
 
